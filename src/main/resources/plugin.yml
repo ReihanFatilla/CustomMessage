@@ -1,0 +1,6 @@
+name: Message
+version: '${project.version}'
+main: com.reift.message.Message
+api-version: 1.18
+authors: [ Reift ]
+description: A Custom Message Plugin to Improve your Private Messaging Experience

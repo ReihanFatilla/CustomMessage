@@ -1,0 +1,6 @@
+toMsg:
+  "§8[ §fMe -> §b<Player> §8] >> <Message>"
+fromMsg:
+  "§8[ §b<Player> §f-> Me §8] >> <Message>"
+errorMsg:
+  "Invalid Command, This is how you Use The Message Command\n/msg <Player> <Message>"
